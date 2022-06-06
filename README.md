@@ -1,5 +1,5 @@
 # Big-Data-Project
-Details
+Details\n
 Batch Processing using AWS EMR & Pyspark
  AWS services: S3 as storage,
 EMR as processing cluster, and Athena for querying the processed results.
